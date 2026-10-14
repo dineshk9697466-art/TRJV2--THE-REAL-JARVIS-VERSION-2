@@ -4,23 +4,6 @@
 
 TRJV2 is the second version of my personal AI assistant project, **The Real Jarvis**. Built with Python and Streamlit, it combines general-purpose AI conversation with document-based question answering and persistent conversation management.
 
-## 📸 Application Screenshots
-
-### Main Interface
-![TRJV2 Main Interface](screenshots/01-main-interface.png)
-
-### PDF Indexing
-![PDF Indexing](screenshots/02-pdf-indexing.png)
-
-### PDF Question Answering
-![PDF Question Answering](screenshots/03-pdf-question-answering.png)
-
-### Chat History
-![Chat History](screenshots/04-chat-history.png)
-
-### Conversation Context
-![Conversation Context](screenshots/05-conversation-context.png)
-
 ## ✨ Features
 
 - **AI-Powered Chat:** Interact with the assistant using the Google Gemini API.
